@@ -26,3 +26,31 @@ C:\Users\DELL\OneDrive\Pulpit\Calendar\Calendar\obj\Release\net5.0-windows\Calen
 C:\Users\DELL\OneDrive\Pulpit\Calendar\Calendar\obj\Release\net5.0-windows\ref\Calendar.dll
 C:\Users\DELL\OneDrive\Pulpit\Calendar\Calendar\obj\Release\net5.0-windows\Calendar.pdb
 C:\Users\DELL\OneDrive\Pulpit\Calendar\Calendar\obj\Release\net5.0-windows\Calendar.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Release\net5.0-windows\Calendar.exe
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Release\net5.0-windows\Calendar.deps.json
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Release\net5.0-windows\Calendar.runtimeconfig.json
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Release\net5.0-windows\Calendar.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Release\net5.0-windows\Calendar.dll
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Release\net5.0-windows\ref\Calendar.dll
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Release\net5.0-windows\Calendar.pdb
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Release\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.Form1.resources
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.FormAddEvent.resources
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.FormDate.resources
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.UserControls.UserControlAddEvent.resources
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.UserControls.UserControlCalendar.resources
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.UserControls.UserControlEvent.resources
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.UserControls.UserControlEvents.resources
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.UserControls.UserControlSettings.resources
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.dll
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\ref\Calendar.dll
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.pdb
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Release\net5.0-windows\Calendar.genruntimeconfig.cache
