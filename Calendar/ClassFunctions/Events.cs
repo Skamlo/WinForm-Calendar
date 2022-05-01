@@ -18,7 +18,7 @@ namespace Calendar.ClassFunctions
             string projectPath = Directory.GetParent(workPath).Parent.Parent.FullName;
 
             string[] files = Directory.GetFiles(projectPath + @"\Data\Events");
-            int numberOfFiles = files.Length;
+            int numberOfFiles = files.Length - 1;
 
             newEvent.Id = numberOfFiles + 1;
 
@@ -33,7 +33,7 @@ namespace Calendar.ClassFunctions
             string projectPath = Directory.GetParent(workPath).Parent.Parent.FullName;
 
             string[] files = Directory.GetFiles(projectPath + @"\Data\Events");
-            int numberOfFiles = files.Length;
+            int numberOfFiles = files.Length - 1;
 
             File.Delete(projectPath + @"\Data\Events\event" + id + ".json");
 

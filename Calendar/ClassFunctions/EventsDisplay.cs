@@ -21,7 +21,7 @@ namespace Calendar.ClassFunctions
             string projectPath = Directory.GetParent(workPath).Parent.Parent.FullName;
 
             string[] files = Directory.GetFiles(projectPath + @"\Data\Events");
-            int numberOfFiles = files.Length;
+            int numberOfFiles = files.Length - 1;
 
             UserControlEvent[] events = new UserControlEvent[numberOfFiles];
 
