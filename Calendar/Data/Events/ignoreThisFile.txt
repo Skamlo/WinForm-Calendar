@@ -1,0 +1,1 @@
+This file is that for git can commit empty Calendar/Data/Events folder
