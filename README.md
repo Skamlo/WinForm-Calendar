@@ -15,6 +15,7 @@ Aplication own 3 pages, in turn - Settings, Calendar and Events.
 
 ## Technologies
 - .NET - version 5.0
+- Windows Forms
 - Newtsoft.Json - version 13.0.1
 
 ## Features
