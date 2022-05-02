@@ -6,7 +6,6 @@ This is a WinForm aplication that I create to learn C# Windows Forms and handle 
 * [Technologies](#technologies)
 * [Features](#features)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Future Improvements](#future-improvements)
 * [Contact](#contact)
@@ -39,10 +38,15 @@ Can be set:
 * Editing events (by clicking on it and seelcted edit option)
 
 ## Setup
-To run aplication you need .NET 5.0 or later.
+At the beginning after downloading and unpacking .zip folder, you must unblock the .resx files.
 
-## Usage
-To open this aplication you have to run `Calendar.exe` file from `Calendar/bin/Release/net5.0-windows` folder or turn on .sln file and run it with that.
+1. Enter the `Calendar` folder
+2. Right-click on the `Form1.resx` file and go to `Properties`.
+3. Check the Unblock option and click Ok button.
+4. Do the saem with the `FormAddEvent.resx` and `FormDate.resx` files.
+
+
+Next to open this aplication you have to run `Calendar.exe` file from `Calendar/bin/Release/net5.0-windows` folder or turn on .sln file and run it with that.
 
 ## Project Status
 Currently this aplication is usable, but I have plans to add some changes and new features.
