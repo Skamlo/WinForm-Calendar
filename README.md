@@ -43,8 +43,8 @@ At the beginning after downloading and unpacking .zip folder, you must unblock t
 
 1. Enter the `Calendar` folder
 2. Right-click on the `Form1.resx` file and go to `Properties`.
-3. Check the Unblock option and click Ok button.
-4. Do the saem with the `FormAddEvent.resx` and `FormDate.resx` files.
+3. Check the Unblock option at the bottom and click Ok button.
+4. Do the same with the `FormAddEvent.resx` and `FormDate.resx` files.
 
 
 Next to open this aplication you have to run `Calendar.exe` file from `Calendar/bin/Release/net5.0-windows` folder or turn on .sln file and run it with that.
