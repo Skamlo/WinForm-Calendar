@@ -1,1 +1,3 @@
-This file is that for git can commit empty Calendar/Data/Events folder
+Can you read with understanding?
+
+*This file is that for git can commit empty folder (Calendar/Data/Events)*
