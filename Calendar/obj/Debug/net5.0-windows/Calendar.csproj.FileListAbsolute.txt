@@ -339,7 +339,6 @@ C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\
 C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Debug\net5.0-windows\Calendar.runtimeconfig.json
 C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Debug\net5.0-windows\Calendar.runtimeconfig.dev.json
 C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Debug\net5.0-windows\Calendar.dll
-C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Debug\net5.0-windows\ref\Calendar.dll
 C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Debug\net5.0-windows\Calendar.pdb
 C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
 C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Debug\net5.0-windows\Calendar.csproj.AssemblyReference.cache
@@ -362,3 +361,4 @@ C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\
 C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Debug\net5.0-windows\ref\Calendar.dll
 C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Debug\net5.0-windows\Calendar.pdb
 C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Debug\net5.0-windows\Calendar.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Pulpit\C#\C#_programs\Calendar\Calendar - final\Calendar\obj\Debug\net5.0-windows\refint\Calendar.dll

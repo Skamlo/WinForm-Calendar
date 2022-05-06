@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar - final\\Calendar\\Calendar.csproj": {}
+    "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar_v17\\Calendar\\Calendar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar - final\\Calendar\\Calendar.csproj": {
+    "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar_v17\\Calendar\\Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar - final\\Calendar\\Calendar.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar_v17\\Calendar\\Calendar.csproj",
         "projectName": "Calendar",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar - final\\Calendar\\Calendar.csproj",
+        "projectPath": "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar_v17\\Calendar\\Calendar.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar - final\\Calendar\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar_v17\\Calendar\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

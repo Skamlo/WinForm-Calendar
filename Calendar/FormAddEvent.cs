@@ -404,7 +404,7 @@ namespace Calendar
             int numberOfFiles = files.Length - 1;
 
             Data.isFormAddEventOpen = false;
-            if (numberOfFiles > 0)
+            if (numberOfFiles >= 0)
             {
                 Data.UserControlEvents.FLP.Controls[numberOfFiles].BackColor = Colors.CurrentColors.mid;
             }

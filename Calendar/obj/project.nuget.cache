@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ogWAvfu4azRa/0bQzXl394ShzdMGhZpTwS/LEbRitYeS2Y+iDhN5NMY5mfMFs+LX0CUgfu+OoFKJkIvnFzWhg==",
+  "dgSpecHash": "2EyLer/9HIDglIbUFiXyHDtPwYI/HDhDUq27HfTeuqTjizfXUU/9tkRjSCVPIXxyG3L44R4F7Yd+O1Tp/Ul8QQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar - final\\Calendar\\Calendar.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Pulpit\\C#\\C#_programs\\Calendar\\Calendar_v17\\Calendar\\Calendar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

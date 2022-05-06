@@ -39,7 +39,7 @@ Can be set:
 * Editing events (by clicking on it and seelcted edit option)
 
 ## Setup
-At the beginning after downloading and unpacking .zip folder, you must unblock the .resx files.
+At the beginning after downloading and unpacking .zip folder, you must unblock the .resx files if they are block.
 
 1. Enter the `Calendar` folder
 2. Right-click on the `Form1.resx` file and go to `Properties`.
