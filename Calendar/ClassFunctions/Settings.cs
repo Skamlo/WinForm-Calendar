@@ -62,20 +62,20 @@ namespace Calendar.ClassFunctions
             Colors.CurrentColors.mid = style.mid;
             Colors.CurrentColors.front = style.front;
 
-            if (style.back ==  Colors.Style1.back &&
-                style.mid ==   Colors.Style1.mid  &&
+            if (style.back == Colors.Style1.back &&
+                style.mid == Colors.Style1.mid &&
                 style.front == Colors.Style1.front)
             {
                 Data.currentStyle = "red";
             }
-            else if (style.back ==  Colors.Style2.back &&
-                     style.mid ==   Colors.Style2.mid  &&
+            else if (style.back == Colors.Style2.back &&
+                     style.mid == Colors.Style2.mid &&
                      style.front == Colors.Style2.front)
             {
                 Data.currentStyle = "green";
             }
-            else if (style.back ==  Colors.Style3.back &&
-                     style.mid ==   Colors.Style3.mid  &&
+            else if (style.back == Colors.Style3.back &&
+                     style.mid == Colors.Style3.mid &&
                      style.front == Colors.Style3.front)
             {
                 Data.currentStyle = "blue";
@@ -228,6 +228,8 @@ namespace Calendar.ClassFunctions
         /// <returns>hue in interval [0, 6]</returns>
         public static double colorToHue(Color color)
         {
+            // the math behind this calcualtions: https://www.rapidtables.com/convert/color/rgb-to-hsl.html
+
             double Red = color.R;
             Red = Red / 255;
             double Green = color.G;
@@ -295,6 +297,8 @@ namespace Calendar.ClassFunctions
         /// <returns></returns>
         public static Color hueToColor(double hue, double saturate, double lightness)
         {
+            // the math behind this calcualtions: https://www.rapidtables.com/convert/color/hsl-to-rgb.html
+
             double C = (1 - Math.Abs(2 * lightness - 1)) * saturate;
             double X = C * (1 - Math.Abs((hue % 2) - 1));
             double m = lightness - (C / 2);
