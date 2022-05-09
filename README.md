@@ -47,7 +47,7 @@ At the beginning after downloading and unpacking .zip folder, you must unblock t
 4. Do the same with the `FormAddEvent.resx` and `FormDate.resx` files.
 
 
-Next to open this aplication you have to run `Calendar.exe` file from `Calendar/bin/Release/net5.0-windows` folder or turn on .sln file and run it with that.
+Next to open this aplication you have to run `Calendar.exe` file from `Calendar\bin\Release\net5.0-windows` folder or turn on .sln file and run it with that.
 
 ## Project Status
 Currently this aplication is usable, but I have plans to add some changes and new features.
