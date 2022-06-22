@@ -406,7 +406,10 @@ namespace Calendar
             Data.isFormAddEventOpen = false;
             if (numberOfFiles >= 0)
             {
-                Data.UserControlEvents.FLP.Controls[numberOfFiles].BackColor = Colors.CurrentColors.mid;
+                if (Data.currentPage == "events")
+                {
+                    Data.UserControlEvents.FLP.Controls[numberOfFiles].BackColor = Colors.CurrentColors.mid;
+                }
             }
 
             Data.isEdit = false;

@@ -339,7 +339,7 @@ namespace Calendar.ClassData
             }
             public struct FormsNames
             {
-                public static string form1Calendar = "kalendarz";
+                public static string form1Calendar = "Kalendarz";
                 public static string form1Settings = "Ustawienia";
                 public static string form1Events = "Wydarzenia";
                 public static string formDate = "Zmień datę";
