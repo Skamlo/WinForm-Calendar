@@ -376,12 +376,23 @@ namespace Calendar
                 ClassFunctions.Events.editEvent(event_, Data.currentUCEventId);
 
                 EventsDisplay.refreshFLPEvents(Data.UserControlEvents.FLP);
+
+                Data.UserControlEvents.buttonEdit.Visible = false;
+                Data.UserControlEvents.buttonDelete.Visible = false;
+
                 this.Close();
             }
         }
 
         private void btnCancle_Click(object sender, EventArgs e)
         {
+            if (Data.isEdit)
+            {
+                Data.UserControlEvents.buttonEdit.Visible = false;
+                Data.UserControlEvents.buttonDelete.Visible = false;
+
+                EventsDisplay.refreshFLPEvents(Data.UserControlEvents.FLP);
+            }
             this.Close();
         }
 

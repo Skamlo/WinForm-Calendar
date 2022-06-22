@@ -37,6 +37,8 @@ namespace Calendar.UserControls
         {
             ClassFunctions.Events.deleteEvent(Data.currentUCEventId);
             EventsDisplay.refreshFLPEvents(Data.UserControlEvents.FLP);
+            Data.UserControlEvents.buttonEdit.Visible = false;
+            Data.UserControlEvents.buttonDelete.Visible = false;
         }
     }
 }
